@@ -1,6 +1,6 @@
 ## Hi! 💕
-### Please checkout my projects, I'd love some feedback 
-😄 Pronouns: She/Her
+### Please checkout my projects, I'd love some feedback 😄
+Pronouns: She/Her
 ✍️ I’m currently working on fleshing out my Portfolio website
 🌱 Studying with Hardard online, taking CS50x 
 🎓 Just finished Dev Academy's Bootcamp for Full Stack Web Development!
