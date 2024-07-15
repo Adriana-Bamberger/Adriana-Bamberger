@@ -1,5 +1,4 @@
-## Hi! 💕
-### Please checkout my projects, I'd love some feedback 😄
+## Hi! 💕 Please checkout my projects, I'd love some feedback 😄
 ✍️ I’m currently working on fleshing out my Portfolio website
 
 🌱 Studying with Hardard online, taking CS50x 
