@@ -13,4 +13,4 @@
 
 📫 Call-Me-Beep-Me-If-You-Wanna-Reach-Me: Email: adriana@bamberger.nz Ph: (+64) 22 470 6342
 
-⚡ Fun fact: I used to be a Ski instructor and own my own costume making businesses, I've been in Scouting fo 16 years!
+⚡ Fun fact: I used to be a Ski instructor and own my own costume making business, I've been in Scouting fo 16 years!
