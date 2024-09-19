@@ -1,15 +1,15 @@
 ## Hi! 💕 Please checkout my projects, I'd love some feedback 😄
-✍️ I’m currently working full stack for WedPro NZ untill Nov
+✍️ I’m currently working full stack for WedPro NZ untill November - Code in Laravel, Vue.js, Php, and Filiament. - Design in Canva and Figma.
 
 🤔 Searching for my next role in Tech
 
-🎨 fleshing out my Portfolio website in my spare time
+🎨 In my spare time I'm building a portfolio and working on small projects with friends
 
 🌱 Studying with Hardard online, taking CS50x 
 
-🎓 Just finished Dev Academy's Bootcamp for Full Stack Web Development!
+🎓 Graduated Dev Academy's Bootcamp for Full Stack Web Development!
 
-👯 I’m looking to collaborate on creative projects
+👯 I’m always looking to collaborate on creative projects
 
 💬 Ask me about my project and design ideas!
 
