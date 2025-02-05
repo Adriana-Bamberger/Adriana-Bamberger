@@ -1,5 +1,5 @@
 ## Hi! 💕 Please checkout my projects, I'd love some feedback 😄
-✍️ I’m currently working full stack for WedPro NZ untill November - Code in Laravel, Vue.js, Php, and Filiament. - Design in Canva and Figma.
+✍️ I’m currently finishing up a full stack project with Pushpay untill Feb - Code in Typescript, React, C#, .NET, GraphQl Stitching and Fedoration. - Design in Canva and Figma.
 
 🤔 Always looking for more opportunities in Tech
 
