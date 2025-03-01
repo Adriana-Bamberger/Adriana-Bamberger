@@ -1,5 +1,5 @@
 ## Hi! 💕 Please check out my projects, I'd love some feedback 😄
-✍️ I have just finished-up a full stack project with Pushpay - Code in Typescript, React, C#, .NET, GraphQl Stitching and Federation, Design in Canva and Figma.
+✍️ I have just finished-up a full stack project with Pushpay - Code in Typescript, React, C#, .NET, GraphQl Stitching and Federation, Design in Figma, Canva, a various vector creation tools.
 
 🤔 Looking for my next role and team in Tech, Anywhere in the world.
 
