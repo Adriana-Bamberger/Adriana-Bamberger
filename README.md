@@ -1,11 +1,11 @@
 ## Hi! 💕 Please check out my projects, I'd love some feedback 😄
-✍️ I have just finished up a full stack project with Pushpay - Code in Typescript, React, C#, .NET, GraphQl Stitching and Federation, Design in Figma, Canva, a various vector creation tools.
+✍️ I have just finished up a full stack project with Pushpay - Code in Typescript, React, C#, .NET, GraphQl Stitching and Federation, Design in Figma, Canva, and various vector creation tools.
 
 🤔 Looking for my next role and team in front-end or full-stack web development, Anywhere in the world.
 
 🎨 In my spare time I'm building a portfolio and working on small projects with friends
 
-🌱 Casually studying with Hardard online, taking CS50x in-between life
+🌱 Casually studying with Hardard online, as well as taking other various short courses to keep up with the speed of tech
 
 🎓 Graduated Dev Academy's Bootcamp for Full Stack Web Development!
 
@@ -13,6 +13,6 @@
 
 💬 Ask me about my project and design ideas!
 
-📫 Call-Me-Beep-Me-If-You-Wanna-Reach-Me: Email: adriana@bamberger.co.nz Ph: (+64) 22 470 6342
+📫 Call-Me-Beep-Me-If-You-Wanna-Reach-Me: adriana@bamberger.co.nz 
 
-⚡ Fun fact: I used to be a Ski instructor and ran my own costume making business, I've been in Scouting for 16 years + am a Queens Scout!
+⚡ Fun fact: I used to be a Ski instructor and ran my own costume-making business, I've been in Scouting for 16 years + I am a Queens Scout!
