@@ -1,4 +1,4 @@
-## Hi! 💕 Please check out my projects, I'd love some feedback 😄
+## Hi! 💕 Please have a look around my projects, I'd love some feedback 😄
 ✍️ I have just finished up a full stack project with Pushpay - Code in Typescript, React, C#, .NET, GraphQl Stitching and Federation, Design in Figma, Canva, and various vector creation tools.
 
 🤔 Looking for my next role and team in front-end or full-stack web development, Anywhere in the world.
