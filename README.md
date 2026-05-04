@@ -1,5 +1,6 @@
 ### `+ . ✧ Hello there! ✧ . +`
-✍️ I am a UI Developer working at home or anywhere in the world for Wych Open Banking (we're on Azure DevOps, that's why my profile is giving ghost town). Code in Typescript, Svelte, Svelte Kit, Tailwind, and Flowbite-svelte, Design in Figma, and Project management in Azure DevOps with Google Workspace.
+
+✧ I am a UI Developer working at home or anywhere in the world for Wych Open Banking (we're on Azure DevOps, that's why my profile is giving ghost town). Code in Typescript, Svelte, Svelte Kit, Tailwind, and Flowbite-svelte, Design in Figma, and Project management in Azure DevOps with Google Workspace.
 
 🎨 In my spare time, I tinker and learn about new tools through various small projects.
 
