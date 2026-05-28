@@ -1,6 +1,10 @@
 ### `+ . ✧ Hello there! ✧ . +`
 
-✧ I am a Front End/UI Developer working at home or anywhere in the world for Wych Open Banking (we're on Azure DevOps, that's why my profile is mostky crickets). Code in Typescript, Svelte, Svelte Kit, Tailwind, and Flowbite-svelte, Design in Figma, and Project management in Azure DevOps with Google Workspace.
+✧ I am a Front End/UI Developer working at home or anywhere in the world for Wych Open Banking (we're on Azure DevOps, that's why my profile is mostky crickets). 
+
+I Code in Typescript, Tailwind Css, Scss, Flowbite, Svelte, React, Vue, and Filament PHP to name a few.
+I Design with Figma, Canva, and Clip Studio Paint.
+I manage projects with GitHub, Azure DevOps, Google Workspace, Jira; and my favorite tool, Notion.
 
 🎨 In my spare time, I tinker and learn about new tools through various small projects.
 
