@@ -1,8 +1,7 @@
 ### `+ . ✧ Hello there! ✧ . +`
 
-✧ I am a Front End/UI Developer working at home or anywhere in the world currently for Wych Open Banking (we're on Azure DevOps, that's why my profile is mostly crickets). 
-
-BUT I'm open to work at the end of June 🤗
+✧ I am a Front End/UI Developer in between roles. Currently looking for my next adventure!
+I've just wrapped up a role for Wych Open Banking as their UI/Front end Developer. (In Azure DevOps, that's why my profile is mostly crickets)
 
 I code in Typescript, Tailwind Css, Scss, Flowbite, Svelte, React, Vue, and Filament PHP to name a few.
 I Design with Figma, Canva, and Clip Studio Paint.
